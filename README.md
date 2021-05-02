@@ -30,7 +30,7 @@ The rise of financial technology, or FinTech, has enabled lenders to use machine
 
 -	The Easy Ensemble AdaBoost Classifier Model had a balanced accuracy score of ~93%.  For the high-risk category, the precision is 9%, and the recall is 92%.  The low-risk category has a precision of 100%, and recall of 94%. The F1 score, which rates performance based on both precision and recall, is 16% for the high-risk category and 97% for the low-risk category.  This is the most suitable machine learning model to predict credit risk.
 
-![](Images/Easy_Ensemble_AdaBoost_Classifier.png
+![](Images/Easy_Ensemble_AdaBoost_Classifier.png)
 
 ## Summary
 
